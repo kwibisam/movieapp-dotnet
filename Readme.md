@@ -29,12 +29,13 @@
 5. visit localhost/swagger, for the api documantation.
 
 ## Screen shots
+#  Homepage
 ![homepage](https://user-images.githubusercontent.com/76908794/209560808-4d237580-79c6-4720-83da-a366eb9b71da.PNG)
-Homepage
+#  Details
 ![movie page](https://user-images.githubusercontent.com/76908794/209560891-aecc8600-df15-429a-9b3d-3b03fd62f334.PNG)
-Details
+#  Search
 ![search](https://user-images.githubusercontent.com/76908794/209560907-d4fa8393-8cab-4734-ae36-b4c839a66870.PNG)
-Search
+#  Swagger Doc
 ![swagger doc](https://user-images.githubusercontent.com/76908794/209560925-e18c8834-5127-4e65-9cb1-fe106b440eb5.PNG)
-Swagger Docs
+
 
