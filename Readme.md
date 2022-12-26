@@ -27,3 +27,7 @@
 3. Start backend with >dotnet run, in backend root
 4. run npm start for the frontend.
 5. visit localhost/swagger, for the api documantation.
+
+## Screen shots
+
+![Homepage](../movie_api%20app/homepage.PNG)
